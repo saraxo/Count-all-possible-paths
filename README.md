@@ -8,3 +8,19 @@ we are in the field (𝑖,𝑗), in one move it is allowed to go to any of the f
 a) Count the number of paths to get from the beginning to the end in the described way;
 b) Some fields of the matrix are forbidden (for example, a bool matrix of the same dimensions is given which determines which fields are prohibited). Determine in this case the number of ways to get from the beginning to the end.
 
+Example,
+
+
+![image](https://user-images.githubusercontent.com/129538263/229371491-3a4521ff-8e1d-4da9-b948-6fd4136be006.png)
+![image](https://user-images.githubusercontent.com/129538263/229371514-e9d519a0-d363-4bf9-a797-d7a970195f37.png)
+
+a)Paths
+<p>1. (0,0)→(0,1)→(0,2)→(0,3)
+
+2.(0,0)→(1,1)→(0,2)→(0,3)
+
+3.(0,0)→(1,1)→(1,2)→(0,3)
+
+4.(0,0)→(1,1)→(0,2)→(0,3)</p>
+
+
